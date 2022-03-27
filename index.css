@@ -39,7 +39,7 @@
   font-weight: 300px;
 }
 
-@media(max-width:570px){
+@media(max-width:750px){
   .main-content> h2{
     font-size: 3rem;
   }
